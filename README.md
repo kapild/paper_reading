@@ -7,4 +7,4 @@ List of papers read un/read
 
 
 
- - [] Add persnal notes/thoughts section for each paper and link to the paper
+- [ ] Add persnal notes/thoughts section for each paper and link to the paper
