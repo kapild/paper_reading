@@ -15,5 +15,7 @@ List of papers read un/read
 Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yolo.pdf)
 - [ ] [Pushing the “Speed Limit”: High-Accuracy U.S. Traffic Sign Recognition with Convolutional Neural Networks](http://cvrr.ucsd.edu/publications/2016/Li_final.pdf)
 
+- [x] Semnatic Segmentation 
+   - [x] [Fully Convolutional Networks for Semantic Segmentation] (./data/fully_conv_net_semantic.pdf)
 
 - [ ] Add persnal notes/thoughts section for each paper and link to the paper
