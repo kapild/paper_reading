@@ -9,6 +9,7 @@ List of papers read un/read
 - [ ] [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
 - [x] [R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
 - [x] [Fast R-CNN ](https://arxiv.org/pdf/1504.08083.pdf)
+  - [ ] [Region of Intertest Pooling](https://deepsense.io/region-of-interest-pooling-explained/)
 
 
 - [ ] [Pushing the “Speed Limit”: High-Accuracy U.S. Traffic Sign Recognition with Convolutional Neural Networks](http://cvrr.ucsd.edu/publications/2016/Li_final.pdf)
