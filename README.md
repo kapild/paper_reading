@@ -17,5 +17,11 @@ Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yol
 
 - [x] Semnatic Segmentation 
    - [x] [Fully Convolutional Networks for Semantic Segmentation](./data/fully_conv_net_semantic.pdf)
+   - [x] [Learning Deconvolution Network for Semantic Segmentation] (https://arxiv.org/abs/1505.04366)
+   - [ ] [Simultaneous Detection and Segmentation](https://arxiv.org/pdf/1407.1808.pdf)
+   - [ ] [Hypercolumns for Object Segmentation and Fine-grained Localization](https://arxiv.org/abs/1411.5752)
+   - [ ] [Convolutional Feature Masking for Joint Object and Stuff Segmentation](https://arxiv.org/pdf/1412.1283.pdf)
+- [x] Instanse Segmentation
+   - [x] [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://arxiv.org/pdf/1512.04412.pdf)
 
 - [ ] Add persnal notes/thoughts section for each paper and link to the paper
