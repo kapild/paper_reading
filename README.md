@@ -24,4 +24,5 @@ Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yol
 - [x] Instanse Segmentation
    - [x] [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://arxiv.org/pdf/1512.04412.pdf)
 
+- [ ] [Toward Low-Flying Autonomous MAV Trail Navigation using Deep Neural Networks for Environmental Awareness](https://arxiv.org/pdf/1705.02550.pdf)
 - [ ] Add persnal notes/thoughts section for each paper and link to the paper
