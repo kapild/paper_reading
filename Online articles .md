@@ -4,3 +4,5 @@
    - [ ] [SSD article](https://medium.com/@mslavescu/dhruv-parthasarathy-you-can-try-ssd-tensorflow-very-easily-especially-if-you-use-my-gtarobotics-1e515e693d51) 
  
 - [x] [Histogram of Oriented Gradients](http://www.learnopencv.com/histogram-of-oriented-gradients/)
+- [ ] [Convolutional Sequence to Sequence Learning](https://s3.amazonaws.com/fairseq/papers/convolutional-sequence-to-sequence-learning.pdf)
+- [ ] [Google’s Neural Machine Translation System:](https://arxiv.org/pdf/1609.08144.pdf)
