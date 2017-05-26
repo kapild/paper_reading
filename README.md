@@ -16,7 +16,7 @@ Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yol
 - [ ] [Pushing the “Speed Limit”: High-Accuracy U.S. Traffic Sign Recognition with Convolutional Neural Networks](http://cvrr.ucsd.edu/publications/2016/Li_final.pdf)
 
 - [x] Semnatic Segmentation 
-   - [x] [A Review on Deep Learning Techniques
+   - [ ] [A Review on Deep Learning Techniques
 Applied to Semantic Segmentation](https://arxiv.org/pdf/1704.06857.pdf)
    - [x] [Fully Convolutional Networks for Semantic Segmentation](./data/fully_conv_net_semantic.pdf)
    - [x] [Learning Deconvolution Network for Semantic Segmentation](https://arxiv.org/abs/1505.04366)
