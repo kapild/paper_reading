@@ -6,3 +6,5 @@
 - [x] [Histogram of Oriented Gradients](http://www.learnopencv.com/histogram-of-oriented-gradients/)
 - [ ] [Convolutional Sequence to Sequence Learning](https://s3.amazonaws.com/fairseq/papers/convolutional-sequence-to-sequence-learning.pdf)
 - [ ] [Google’s Neural Machine Translation System:](https://arxiv.org/pdf/1609.08144.pdf)
+- [x] [Sequence to Sequence Learning
+with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
