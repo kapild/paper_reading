@@ -8,3 +8,4 @@
 - [ ] [Google’s Neural Machine Translation System:](https://arxiv.org/pdf/1609.08144.pdf)
 - [x] [Sequence to Sequence Learning
 with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
+ - [ ] [Ad Click Prediction: a View from the Trenches]( https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf)
