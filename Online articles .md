@@ -6,6 +6,9 @@
 - [x] [Histogram of Oriented Gradients](http://www.learnopencv.com/histogram-of-oriented-gradients/)
 - [ ] [Convolutional Sequence to Sequence Learning](https://s3.amazonaws.com/fairseq/papers/convolutional-sequence-to-sequence-learning.pdf)
 - [ ] [Google’s Neural Machine Translation System:](https://arxiv.org/pdf/1609.08144.pdf)
+- [ ] [Neural Architectures for Named Entity Recognition](http://www.aclweb.org/anthology/N16-1030)
+- [ ] [An Empirical Investigation of Word Class-Based
+Features for Natural Language Understanding](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7364183&tag=1)
 - [x] [Sequence to Sequence Learning
 with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
  - [ ] [Ad Click Prediction: a View from the Trenches]( https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf)
