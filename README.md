@@ -4,6 +4,7 @@ List of papers read un/read
 
 
 - [x] [Traffic Sign Recognition using Multi-scale convolution network](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf) 
+- [ ] [Detecting Small Signs from Large Images](https://arxiv.org/pdf/1706.08574.pdf)
 - [x] [End to End Learning for Self Driving Cars](https://arxiv.org/pdf/1604.07316.pdf)
 - [x] [DeepPose: Human Pose Estimation via Deep Neural Networks](https://arxiv.org/pdf/1312.4659.pdf)
 - [ ] [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
