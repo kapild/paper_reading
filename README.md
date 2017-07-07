@@ -30,4 +30,5 @@ Applied to Semantic Segmentation](https://arxiv.org/pdf/1704.06857.pdf)
    - [x] [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://arxiv.org/pdf/1512.04412.pdf)
 
 - [ ] [Toward Low-Flying Autonomous MAV Trail Navigation using Deep Neural Networks for Environmental Awareness](https://arxiv.org/pdf/1705.02550.pdf)
+- [ ] [MobileNets](https://arxiv.org/pdf/1704.04861.pdf)
 - [ ] Add persnal notes/thoughts section for each paper and link to the paper
