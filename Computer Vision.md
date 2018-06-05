@@ -9,13 +9,23 @@ List of papers read un/read
 - [x] [DeepPose: Human Pose Estimation via Deep Neural Networks](https://arxiv.org/pdf/1312.4659.pdf)
 - [ ] [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
 - [x] [R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
+
+
+## Vanial Architecture 
+- [x] [Network In Network](https://arxiv.org/abs/1312.4400)
+- [x] [GoogLenet v1 Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+- [x] [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
 - [x] [Fast R-CNN ](https://arxiv.org/pdf/1504.08083.pdf)
   - [ ] [Region of Intertest Pooling](https://deepsense.io/region-of-interest-pooling-explained/)
 - [x] [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
 - [x] [You Only Look Once:
 Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yolo.pdf)
-- [ ] [Pushing the “Speed Limit”: High-Accuracy U.S. Traffic Sign Recognition with Convolutional Neural Networks](http://cvrr.ucsd.edu/publications/2016/Li_final.pdf)
 
+## Detection Task
+- [x] [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
+- [x] [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
+
+## Segmentation
 - [x] Semnatic Segmentation 
    - [ ] [A Review on Deep Learning Techniques
 Applied to Semantic Segmentation](https://arxiv.org/pdf/1704.06857.pdf)
@@ -29,6 +39,9 @@ Applied to Semantic Segmentation](https://arxiv.org/pdf/1704.06857.pdf)
 - [x] Instanse Segmentation
    - [x] [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://arxiv.org/pdf/1512.04412.pdf)
 
+- [x] [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
+
+## Autonomous Driving
 - [ ] [Toward Low-Flying Autonomous MAV Trail Navigation using Deep Neural Networks for Environmental Awareness](https://arxiv.org/pdf/1705.02550.pdf)
-- [ ] [MobileNets](https://arxiv.org/pdf/1704.04861.pdf)
-- [ ] Add persnal notes/thoughts section for each paper and link to the paper
+- [x] [Pushing the “Speed Limit”: High-Accuracy U.S. Traffic Sign Recognition with Convolutional Neural Networks](http://cvrr.ucsd.edu/publications/2016/Li_final.pdf)
+
