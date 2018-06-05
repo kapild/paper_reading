@@ -1,4 +1,4 @@
-# Paper Reading
+# Computer Vision Paper Reading
 List of papers read un/read
 
 
@@ -13,7 +13,13 @@ List of papers read un/read
 
 ## Vanial Architecture 
 - [x] [Network In Network](https://arxiv.org/abs/1312.4400)
+- [x] [AlexNet: ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) 
+- [x] [ZfNet: Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
+- [x] [VggNet: Very Deep Convolutional Networks for Large\-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+- [x] [ResNet: Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 - [x] [GoogLenet v1 Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+- [x] [Inception v3: Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
+- [x] [Inception\-v4, Inception\-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261?context=cs)
 - [x] [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
 - [x] [Fast R-CNN ](https://arxiv.org/pdf/1504.08083.pdf)
   - [ ] [Region of Intertest Pooling](https://deepsense.io/region-of-interest-pooling-explained/)
