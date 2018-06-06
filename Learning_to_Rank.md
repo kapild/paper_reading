@@ -8,7 +8,7 @@ List of papers read un/read
 - [x] [Adapting Bboosting for Information Retrieval Measures](https://www.microsoft.com/en-us/research/publication/adapting-boosting-for-information-retrieval-measures/)
 - [x] [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754)
 - [x] [FairPair: Minimally Invasive Randomization for Collecting Unbiased Preferences from Clickthrough Logs ](https://arxiv.org/abs/cs/0605037)
-- [x][Beyond Position Bias: Examining Result Attractiveness as a Source of Presentation Bias in Clickthrough Data ] (https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36363.pdf)
+- [x] [Beyond Position Bias: Examining Result Attractiveness as a Source of Presentation Bias in Clickthrough Data] (https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36363.pdf)
 - [x] [Learning to Rank Social Update Streams](http://www.hongliangjie.com/publications/sigir2012.pdf)
 
 ## Ads click prediction
